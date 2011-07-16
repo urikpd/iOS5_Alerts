@@ -1,0 +1,284 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1FA96B5C13D19D9F002CC9BB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FA96B5B13D19D9F002CC9BB /* UIKit.framework */; };
+		1FA96B5E13D19D9F002CC9BB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FA96B5D13D19D9F002CC9BB /* Foundation.framework */; };
+		1FA96B6013D19D9F002CC9BB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FA96B5F13D19D9F002CC9BB /* CoreGraphics.framework */; };
+		1FA96B6613D19D9F002CC9BB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1FA96B6413D19D9F002CC9BB /* InfoPlist.strings */; };
+		1FA96B6813D19D9F002CC9BB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FA96B6713D19D9F002CC9BB /* main.m */; };
+		1FA96B6C13D19D9F002CC9BB /* iOS5_AlertsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FA96B6B13D19D9F002CC9BB /* iOS5_AlertsAppDelegate.m */; };
+		1FA96B6F13D19DA0002CC9BB /* iOS5_AlertsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FA96B6E13D19DA0002CC9BB /* iOS5_AlertsViewController.m */; };
+		1FA96B7213D19DA0002CC9BB /* iOS5_AlertsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1FA96B7013D19DA0002CC9BB /* iOS5_AlertsViewController.xib */; };
+		1FA96B7A13D19DB9002CC9BB /* SMAlertBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FA96B7913D19DB9002CC9BB /* SMAlertBlock.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1FA96B5713D19D9F002CC9BB /* iOS5_Alerts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iOS5_Alerts.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1FA96B5B13D19D9F002CC9BB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		1FA96B5D13D19D9F002CC9BB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1FA96B5F13D19D9F002CC9BB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		1FA96B6313D19D9F002CC9BB /* iOS5_Alerts-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "iOS5_Alerts-Info.plist"; sourceTree = "<group>"; };
+		1FA96B6513D19D9F002CC9BB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1FA96B6713D19D9F002CC9BB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1FA96B6913D19D9F002CC9BB /* iOS5_Alerts-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "iOS5_Alerts-Prefix.pch"; sourceTree = "<group>"; };
+		1FA96B6A13D19D9F002CC9BB /* iOS5_AlertsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iOS5_AlertsAppDelegate.h; sourceTree = "<group>"; };
+		1FA96B6B13D19D9F002CC9BB /* iOS5_AlertsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS5_AlertsAppDelegate.m; sourceTree = "<group>"; };
+		1FA96B6D13D19D9F002CC9BB /* iOS5_AlertsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = iOS5_AlertsViewController.h; sourceTree = "<group>"; };
+		1FA96B6E13D19DA0002CC9BB /* iOS5_AlertsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOS5_AlertsViewController.m; sourceTree = "<group>"; };
+		1FA96B7113D19DA0002CC9BB /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/iOS5_AlertsViewController.xib; sourceTree = "<group>"; };
+		1FA96B7813D19DB9002CC9BB /* SMAlertBlock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SMAlertBlock.h; sourceTree = "<group>"; };
+		1FA96B7913D19DB9002CC9BB /* SMAlertBlock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SMAlertBlock.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1FA96B5413D19D9F002CC9BB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FA96B5C13D19D9F002CC9BB /* UIKit.framework in Frameworks */,
+				1FA96B5E13D19D9F002CC9BB /* Foundation.framework in Frameworks */,
+				1FA96B6013D19D9F002CC9BB /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1FA96B4C13D19D9F002CC9BB = {
+			isa = PBXGroup;
+			children = (
+				1FA96B6113D19D9F002CC9BB /* iOS5_Alerts */,
+				1FA96B5A13D19D9F002CC9BB /* Frameworks */,
+				1FA96B5813D19D9F002CC9BB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1FA96B5813D19D9F002CC9BB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1FA96B5713D19D9F002CC9BB /* iOS5_Alerts.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1FA96B5A13D19D9F002CC9BB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1FA96B5B13D19D9F002CC9BB /* UIKit.framework */,
+				1FA96B5D13D19D9F002CC9BB /* Foundation.framework */,
+				1FA96B5F13D19D9F002CC9BB /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1FA96B6113D19D9F002CC9BB /* iOS5_Alerts */ = {
+			isa = PBXGroup;
+			children = (
+				1FA96B6A13D19D9F002CC9BB /* iOS5_AlertsAppDelegate.h */,
+				1FA96B6B13D19D9F002CC9BB /* iOS5_AlertsAppDelegate.m */,
+				1FA96B6D13D19D9F002CC9BB /* iOS5_AlertsViewController.h */,
+				1FA96B6E13D19DA0002CC9BB /* iOS5_AlertsViewController.m */,
+				1FA96B7013D19DA0002CC9BB /* iOS5_AlertsViewController.xib */,
+				1FA96B6213D19D9F002CC9BB /* Supporting Files */,
+				1FA96B7813D19DB9002CC9BB /* SMAlertBlock.h */,
+				1FA96B7913D19DB9002CC9BB /* SMAlertBlock.m */,
+			);
+			path = iOS5_Alerts;
+			sourceTree = "<group>";
+		};
+		1FA96B6213D19D9F002CC9BB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1FA96B6313D19D9F002CC9BB /* iOS5_Alerts-Info.plist */,
+				1FA96B6413D19D9F002CC9BB /* InfoPlist.strings */,
+				1FA96B6713D19D9F002CC9BB /* main.m */,
+				1FA96B6913D19D9F002CC9BB /* iOS5_Alerts-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1FA96B5613D19D9F002CC9BB /* iOS5_Alerts */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1FA96B7513D19DA0002CC9BB /* Build configuration list for PBXNativeTarget "iOS5_Alerts" */;
+			buildPhases = (
+				1FA96B5313D19D9F002CC9BB /* Sources */,
+				1FA96B5413D19D9F002CC9BB /* Frameworks */,
+				1FA96B5513D19D9F002CC9BB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iOS5_Alerts;
+			productName = iOS5_Alerts;
+			productReference = 1FA96B5713D19D9F002CC9BB /* iOS5_Alerts.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1FA96B4E13D19D9F002CC9BB /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1FA96B5113D19D9F002CC9BB /* Build configuration list for PBXProject "iOS5_Alerts" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1FA96B4C13D19D9F002CC9BB;
+			productRefGroup = 1FA96B5813D19D9F002CC9BB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1FA96B5613D19D9F002CC9BB /* iOS5_Alerts */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1FA96B5513D19D9F002CC9BB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FA96B6613D19D9F002CC9BB /* InfoPlist.strings in Resources */,
+				1FA96B7213D19DA0002CC9BB /* iOS5_AlertsViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1FA96B5313D19D9F002CC9BB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1FA96B6813D19D9F002CC9BB /* main.m in Sources */,
+				1FA96B6C13D19D9F002CC9BB /* iOS5_AlertsAppDelegate.m in Sources */,
+				1FA96B6F13D19DA0002CC9BB /* iOS5_AlertsViewController.m in Sources */,
+				1FA96B7A13D19DB9002CC9BB /* SMAlertBlock.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		1FA96B6413D19D9F002CC9BB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1FA96B6513D19D9F002CC9BB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1FA96B7013D19DA0002CC9BB /* iOS5_AlertsViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1FA96B7113D19DA0002CC9BB /* en */,
+			);
+			name = iOS5_AlertsViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1FA96B7313D19DA0002CC9BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1FA96B7413D19DA0002CC9BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1FA96B7613D19DA0002CC9BB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iOS5_Alerts/iOS5_Alerts-Prefix.pch";
+				INFOPLIST_FILE = "iOS5_Alerts/iOS5_Alerts-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		1FA96B7713D19DA0002CC9BB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "iOS5_Alerts/iOS5_Alerts-Prefix.pch";
+				INFOPLIST_FILE = "iOS5_Alerts/iOS5_Alerts-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1FA96B5113D19D9F002CC9BB /* Build configuration list for PBXProject "iOS5_Alerts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FA96B7313D19DA0002CC9BB /* Debug */,
+				1FA96B7413D19DA0002CC9BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1FA96B7513D19DA0002CC9BB /* Build configuration list for PBXNativeTarget "iOS5_Alerts" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1FA96B7613D19DA0002CC9BB /* Debug */,
+				1FA96B7713D19DA0002CC9BB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1FA96B4E13D19D9F002CC9BB /* Project object */;
+}

@@ -1,0 +1,266 @@
+TiOS5_Alerts
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/Info.plist iOS5_Alerts/iOS5_Alerts-Info.plist
+cProcessPCH /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch.pth iOS5_Alerts/iOS5_Alerts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/main.o /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsAppDelegate.o /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsViewController.o /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/SMAlertBlock.o /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/SMAlertBlock.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts normal i386
+cGenerateDSYMFile /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app.dSYM /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts
+cCopyStringsFile /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/en.lproj/InfoPlist.strings iOS5_Alerts/en.lproj/InfoPlist.strings
+cCompileXIB /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/iOS5_AlertsViewController.xib
+cTouch /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+c000000004E1F324A0000000000000154
+t1310667338
+s340
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004E0D6B8C000000000024EA10
+t1309502348
+s2419216
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004E0D72B500000000003520F0
+t1309504181
+s3481840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004E0E976000000000008AD490
+t1309579104
+s9098384
+
+N/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app.dSYM
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/Info.plist
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/PkgInfo
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/en.lproj/iOS5_AlertsViewController.nib
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/SMAlertBlock.o
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_Alerts.LinkFileList
+c000000004E2166980000000000000217
+t1310811800
+s535
+
+N/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsAppDelegate.o
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsViewController.o
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/SMAlertBlock.m
+c000000004E216697000000000000022D
+t1310811799
+s557
+
+N/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/InfoPlist.strings
+c000000004E21661F000000000000002D
+t1310811679
+s45
+
+N/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/iOS5_AlertsViewController.xib
+c000000004E2166200000000000001A4D
+t1310811680
+s6733
+
+N/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_Alerts-Prefix.pch
+c000000004E21661F0000000000000145
+t1310811679
+s325
+
+N/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsAppDelegate.m
+c000000004E21661F00000000000009D5
+t1310811679
+s2517
+
+N/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsViewController.m
+c000000004E21662000000000000004BE
+t1310811680
+s1214
+
+N/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/main.m
+c000000004E21661F0000000000000165
+t1310811679
+s357
+
+N/var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch.pth
+t2
+s0
+
+NiOS5_Alerts/iOS5_Alerts-Info.plist
+c000000004E21661F0000000000000479
+t1310811679
+s1145
+
+CBuild AST from /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/SMAlertBlock.m
+r0
+
+CBuild AST from /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsAppDelegate.m
+r0
+
+CBuild AST from /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsViewController.m
+r0
+
+CBuild AST from /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb29e8a189ed1b341^89d000199ed1b341^---0#1#0#--18"Check dependencies
+
+CCompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/SMAlertBlock.o /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/SMAlertBlock.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s332504606.629743
+e332504606.668208
+r1
+xCompileC
+xbuild/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/SMAlertBlock.o
+x/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/SMAlertBlock.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/SMAlertBlock.me256a11e9ed1b341^e31aab1e9ed1b341^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/SMAlertBlock.m0000000000000000^2675"CompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/SMAlertBlock.o iOS5_Alerts/SMAlertBlock.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sid/Desktop/iOS5_Alerts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-generated-files.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-own-target-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-all-target-headers.hmap -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-project-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/include -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources/i386 -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources -F/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator -include /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch -MMD -MT dependencies -MF /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/SMAlertBlock.d -c /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/SMAlertBlock.m -o /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/SMAlertBlock.o
+
+CCompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsAppDelegate.o /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s332504606.224938
+e332504606.628220
+r1
+xCompileC
+xbuild/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsAppDelegate.o
+x/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsAppDelegate.m60ae391e9ed1b341^80d2a01e9ed1b341^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsAppDelegate.m0000000000000000^2725"CompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsAppDelegate.o iOS5_Alerts/iOS5_AlertsAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sid/Desktop/iOS5_Alerts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-generated-files.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-own-target-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-all-target-headers.hmap -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-project-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/include -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources/i386 -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources -F/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator -include /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch -MMD -MT dependencies -MF /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsAppDelegate.d -c /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsAppDelegate.m -o /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsAppDelegate.o
+
+CCompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsViewController.o /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s332504606.615813
+e332504606.680985
+r1
+xCompileC
+xbuild/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsViewController.o
+x/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsViewController.m4ace9d1e9ed1b341^b055ae1e9ed1b341^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsViewController.m0000000000000000^2740"CompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsViewController.o iOS5_Alerts/iOS5_AlertsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sid/Desktop/iOS5_Alerts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-generated-files.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-own-target-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-all-target-headers.hmap -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-project-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/include -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources/i386 -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources -F/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator -include /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch -MMD -MT dependencies -MF /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsViewController.d -c /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_AlertsViewController.m -o /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_AlertsViewController.o
+
+CCompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/main.o /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s332504606.224792
+e332504606.614488
+r1
+xCompileC
+xbuild/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/main.o
+x/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/main.mdaa9391e9ed1b341^054f9d1e9ed1b341^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/main.m0000000000000000^2635"CompileC build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/main.o iOS5_Alerts/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sid/Desktop/iOS5_Alerts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-generated-files.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-own-target-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-all-target-headers.hmap -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-project-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/include -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources/i386 -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources -F/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator -include /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch -MMD -MT dependencies -MF /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/main.d -c /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/main.m -o /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/iOS5_AlertsViewController.xib
+s332504608.461615
+e332504612.255806
+r1
+xCompileXIB
+x/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/iOS5_AlertsViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/iOS5_AlertsViewController.xib726b76209ed1b341^658a41249ed1b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/iOS5_AlertsViewController.xib0000000000000000^730"CompileXIB iOS5_Alerts/en.lproj/iOS5_AlertsViewController.xib    cd /Users/sid/Desktop/iOS5_Alerts    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/en.lproj/iOS5_AlertsViewController.nib /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/iOS5_AlertsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk
+
+CCopyStringsFile /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/en.lproj/InfoPlist.strings iOS5_Alerts/en.lproj/InfoPlist.strings
+s332504608.461373
+e332504608.469355
+r1
+xCopyStringsFile
+x/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/en.lproj/InfoPlist.strings
+xiOS5_Alerts/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy iOS5_Alerts/en.lproj/InfoPlist.strings3f5476209ed1b341^647478209ed1b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/en.lproj/InfoPlist.strings0000000000000000^511"CopyStringsFile build/Debug-iphonesimulator/iOS5_Alerts.app/en.lproj/InfoPlist.strings iOS5_Alerts/en.lproj/InfoPlist.strings    cd /Users/sid/Desktop/iOS5_Alerts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/en.lproj -- iOS5_Alerts/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app.dSYM /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts
+s332504608.172304
+e332504608.458038
+r1
+xGenerateDSYMFile
+x/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app.dSYM
+x/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Generating /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app.dSYMe3382c209ed1b341^d94175209ed1b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app.dSYM00f8a400dcffdf42^493"GenerateDSYMFile build/Debug-iphonesimulator/iOS5_Alerts.app.dSYM build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts    cd /Users/sid/Desktop/iOS5_Alerts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts -o /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app.dSYM
+
+CLd /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts normal i386
+s332504606.682727
+e332504608.170534
+r1
+xLd
+x/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Link /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alertsbce9ae1e9ed1b341^04aa2b209ed1b341^---0#0#0#--1001"Ld build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts normal i386    cd /Users/sid/Desktop/iOS5_Alerts    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -L/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator -F/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator -filelist /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/Objects-normal/i386/iOS5_Alerts.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/iOS5_Alerts
+
+CProcessInfoPlistFile /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/Info.plist iOS5_Alerts/iOS5_Alerts-Info.plist
+s332504601.070282
+e332504601.081655
+r1
+xProcessInfoPlistFile
+x/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/Info.plist
+xiOS5_Alerts/iOS5_Alerts-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process iOS5_Alerts/iOS5_Alerts-Info.plist6b2712199ed1b341^581d15199ed1b341^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_Alerts-Info.plist0000000000000000^590"ProcessInfoPlistFile build/Debug-iphonesimulator/iOS5_Alerts.app/Info.plist iOS5_Alerts/iOS5_Alerts-Info.plist    cd /Users/sid/Desktop/iOS5_Alerts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iOS5_Alerts/iOS5_Alerts-Info.plist -genpkginfo /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app/Info.plist
+
+CProcessPCH /Users/sid/Library/Developer/Xcode/DerivedData/iOS5_Alerts-cpmahtvqxhjbgqcosewlhohyaxfr/Index/PrecompiledHeaders/iOS5_Alerts-Prefix-glohfsreqrzhnichdaoeqoywbjkr_ast/iOS5_Alerts-Prefix.pch.pth iOS5_Alerts/iOS5_Alerts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch.pth iOS5_Alerts/iOS5_Alerts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s332504601.084246
+e332504606.222860
+r1
+xProcessPCH
+x/var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch.pth
+xiOS5_Alerts/iOS5_Alerts-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile iOS5_Alerts/iOS5_Alerts-Prefix.pchf0bf15199ed1b341^d717391e9ed1b341^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_Alerts-Prefix.pch0000000000000000^2680"ProcessPCH /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch.pth iOS5_Alerts/iOS5_Alerts-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/sid/Desktop/iOS5_Alerts    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wmissing-prototypes -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.0.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50000 -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-generated-files.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-own-target-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-all-target-headers.hmap -iquote /Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/iOS5_Alerts-project-headers.hmap -I/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/include -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources/i386 -I/Users/sid/Desktop/iOS5_Alerts/build/iOS5_Alerts.build/Debug-iphonesimulator/iOS5_Alerts.build/DerivedSources -F/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator -c /Users/sid/Desktop/iOS5_Alerts/iOS5_Alerts/iOS5_Alerts-Prefix.pch -o /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/Xz/XzcJLwqvE84RaRkWjpMMik+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iOS5_Alerts-Prefix-ekhtghdvtfihoodyucbucgwgrxvy/iOS5_Alerts-Prefix.pch.d
+
+CTouch /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app
+s332504612.259051
+e332504612.400630
+r1
+xTouch
+x/Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Touch /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.appe06542249ed1b341^c18f66249ed1b341^---0#0#0#--316"Touch build/Debug-iphonesimulator/iOS5_Alerts.app    cd /Users/sid/Desktop/iOS5_Alerts    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sid/Desktop/iOS5_Alerts/build/Debug-iphonesimulator/iOS5_Alerts.app
+
