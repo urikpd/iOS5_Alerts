@@ -1,13 +1,13 @@
 //
-//  iOS5_AlertsViewController.h
+//  SMAlertBlock.h
 //  iOS5_Alerts
 //
 //  Created by sid on 16/07/11.
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
-@interface iOS5_AlertsViewController : UIViewController
+@interface SMAlertBlock : NSObject
 
 @end
